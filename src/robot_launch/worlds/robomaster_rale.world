@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <world name="robomaster_rale">
+    <include>
+      <uri>https://fuel.gazebosim.org/1.0/OpenRobotics/models/Sun</uri>
+    </include>
+    <include>
+      <uri>https://fuel.gazebosim.org/1.0/OpenRobotics/models/Ground Plane</uri>
+    </include>
+  </world>
+</sdf>
